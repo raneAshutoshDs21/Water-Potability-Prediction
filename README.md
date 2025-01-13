@@ -43,4 +43,7 @@ Built the following models and attained 90%+ accuracy in every model:
 | Random Forest Classifier | 99.25%  |
 | XGBoost Classifier | 99.23%  |
 
+## Further Developments
+The further developments in this project will be development of an WEB APPLICATION, where stakeholders can choose model of their choice to predict the potability of water by giving necessary inputs into the models.
+
 
